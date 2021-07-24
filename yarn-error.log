@@ -1,0 +1,54 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Mr JIvaros\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @react-navigation/stack
+
+PATH: 
+  C:\Users\Mr JIvaros\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Mr JIvaros\AppData\Local\Programs\Python\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files (x86)\Git\cmd;C:\tools\php80;C:\composer;C:\Users\Mr JIvaros\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;;C:\Users\Mr JIvaros\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\4.4\bin;;C:\Program Files\JetBrains\WebStorm 2021.1.2\bin;;C:\Program Files (x86)\Heroku\bin;C:\Users\Mr JIvaros\AppData\Roaming\Composer\vendor\bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, open 'C:\Users\Mr JIvaros\Documents\REACT-NATIVE-DEV\openclassrooms\movise-app\node_modules\.bin\react-native.cmd'
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "@react-native-community/masked-view": "^0.1.10",
+      "@react-navigation/native": "^5.9.4",
+      "expo": "~42.0.1",
+      "expo-status-bar": "~1.0.4",
+      "galio-framework": "^0.8.0",
+      "react": "16.13.1",
+      "react-dom": "16.13.1",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+      "react-native-gesture-handler": "^1.10.3",
+      "react-native-reanimated": "^2.2.0",
+      "react-native-safe-area-context": "^3.2.0",
+      "react-native-screens": "^3.4.0",
+      "react-native-web": "~0.13.12"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.9.0"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
