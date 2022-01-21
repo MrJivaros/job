@@ -1,8 +1,8 @@
 # Question pour un entretien de job
 
-``
-bash $ 1. Quelle sont les qualités indispensable pour occuper ce post
-``
+```sh
+$ 1. Quelle sont les qualités indispensable pour occuper ce post
+```
 
 1. Quelle sont les qualités indispensable pour occuper ce post
 2. Comment décrivez-vous l'environnement de travail au sein de votre éequipe/entreprise
